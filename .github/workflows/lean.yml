@@ -1,4 +1,4 @@
-name: lean
+name: lean-jackyao
 
 on:
   repository_dispatch:
